@@ -1,0 +1,128 @@
+@media only screen and (max-width: 1024px){
+    .header{
+        margin-right: 400px;
+    }
+    .box1{
+        margin-left: 50px;
+    }
+    .best{
+       margin-left:360px;
+    }
+    .hyg{
+        margin-left: 250px;
+    }
+    .h2{
+        margin-left: 200px;
+    }
+    .box2{
+        margin-left: 100px;
+        justify-content: space-around;
+        margin-top: 20px;
+        
+    }
+    .parent{
+       
+        justify-content: space-around;
+    }
+    .Log{
+        margin-left: 330px;
+    }
+    .Login{
+        margin-right: 400px;
+        max-width: 100%;
+        align-items: center;
+    }
+}
+@media only screen and (max-width: 870px){
+    .box1{
+       margin-left: 90px
+    }
+    .box5{
+        margin-left: 90px;
+        margin-top: 30px;
+     }
+     .best-offer{
+        display: flex;
+        flex-direction: column;
+        margin-left: 100px;
+    }
+    .best{
+       margin-left: 300px;
+     }
+     .hyg{
+         margin-left: 100px;
+     }
+}
+@media only screen and (max-width: 770px){
+    .box2{
+        margin-left: 20px;
+    }
+     .best{
+       margin-left:300px;
+    }
+    .hyg{
+        margin-left: 100px;
+    }
+    .h2{
+        margin-left: 100px;
+    }
+    .Log{
+        margin-left: 250px;
+    }
+    .burger{
+        display: block;
+        
+    }
+}
+@media only screen and (max-width: 613px){
+    .best-offer{
+        display: flex;
+        flex-direction: column;
+        margin-left: 100px;
+    }
+}
+@media only screen and (max-width: 561px){
+    .box1{
+        margin-left: 1px;
+    }
+    .box5{
+        margin-left: 1px
+    }
+    .Log{
+        margin-left: 200px;
+    }
+    .best{
+        margin-left:200px;
+     }
+     .hyg{
+         margin-left: 100px;
+     }
+}
+@media only screen and (max-width: 480px){
+    .box1{
+      margin-left: 1px;
+    }
+    .best-offer{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+    }
+    .container{
+        margin-left: 10px;
+    }
+    .best{
+        margin-left: 100px;
+     }
+     .hyg{
+         margin-left: 100px;
+     }
+     .Log{
+        margin-left: 100px;
+    }
+}
+@media only screen and (max-width: 381px){
+    .best-offer{
+        margin-left: 1px;
+    
+    }
+}
